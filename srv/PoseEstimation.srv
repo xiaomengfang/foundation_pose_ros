@@ -1,0 +1,8 @@
+sensor_msgs/Image rgb # RGB image
+sensor_msgs/Image depth # Depth image
+sensor_msgs/Image mask # Mask image
+float32[9] K # intrinsic matrix
+std_msgs/Bool is_vis # is visualization
+---
+float32[16] pose # 4x4 matrix
+float32[6] bbox # bounding box

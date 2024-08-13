@@ -1,0 +1,5 @@
+# ninja log v5
+0	8075	1722319717034762627	/home/ps/Projects/FoundationPose/bundlesdf/mycuda/build/temp.linux-x86_64-cpython-39/bindings.o	d121d54b401bf67d
+0	26103	1722319735054954671	/home/ps/Projects/FoundationPose/bundlesdf/mycuda/build/temp.linux-x86_64-cpython-39/common.o	75356a604a89aa40
+2	8245	1722319743519044887	/home/ps/Projects/FoundationPose/bundlesdf/mycuda/build/temp.linux-x86_64-cpython-39/home/ps/Projects/FoundationPose/bundlesdf/mycuda/torch_ngp_grid_encoder/bindings.o	33ed47a1f87319c1
+2	41967	1722319777239404378	/home/ps/Projects/FoundationPose/bundlesdf/mycuda/build/temp.linux-x86_64-cpython-39/home/ps/Projects/FoundationPose/bundlesdf/mycuda/torch_ngp_grid_encoder/gridencoder.o	a42a5d4ef5e4f3f5
